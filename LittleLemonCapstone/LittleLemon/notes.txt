@@ -1,0 +1,18 @@
+
+
+Admin and Manager
+
+Username: admin
+
+Email: admin@littlelemon.com
+
+Password: lemon@789!
+
+
+Delivery crew
+
+Username: delivery1
+
+Email: delievery1@littlelemon.com
+
+Password: lemon@789!
